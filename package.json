@@ -1,0 +1,9 @@
+{
+  "name": "magpie-helius-adapter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Normalize Codex Responses web-search action types for Helius.",
+  "magpie": {
+    "middleware": "./helius.middleware.js"
+  }
+}
